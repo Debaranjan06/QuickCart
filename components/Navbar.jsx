@@ -1,6 +1,6 @@
 "use client"
 import React from "react";
-import { assets, BagIcon, BoxIcon, CartIcon} from "@/assets/assets";
+import { assets, BagIcon, BoxIcon, CartIcon} from "@/assets/assets.js";
 import Link from "next/link"
 import { useAppContext } from "@/context/AppContext";
 import Image from "next/image";
